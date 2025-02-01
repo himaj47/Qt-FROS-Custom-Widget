@@ -1,4 +1,4 @@
-# Python module for FROS-GUI
+# Qt Custom Widget for FROS-GUI
 
 
 

@@ -6,7 +6,7 @@ setup(
     author="himaj joshi",
     author_email="himajjoshi932@gmail.com",
     description="A Python package for ROS2 integration with FROS user interface",
-    url="https://github.com/himaj47/Qt-FROS-custom-widget",
+    url="https://github.com/himaj47/Qt-FROS-Custom-Widget",
     packages=find_packages(),
     install_requires=[
         "PySide2>=5.15.2",

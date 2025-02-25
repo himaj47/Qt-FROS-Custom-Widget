@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="my_module",
+    name="Custom_Widgets",
     version="0.1.0",
     author="himaj joshi",
     author_email="himajjoshi932@gmail.com",
